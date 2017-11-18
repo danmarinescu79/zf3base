@@ -1,3 +1,9 @@
 [submodule "module/Acl"]
 	path = module/Acl
 	url = https://danmarinescu79@github.com/danmarinescu79/zf3baseAcl.git
+[submodule "module/Navigation"]
+	path = module/Navigation
+	url = https://danmarinescu79@github.com/danmarinescu79/zf3baseNavigation.git
+[submodule "module/User"]
+	path = module/User
+	url = https://danmarinescu79@github.com/danmarinescu79/zf3baseUser.git
